@@ -1,0 +1,6 @@
+{
+  "name": "Norepinephrine MKM Calculator",
+  "description": "An interactive clinical calculator for Norepinephrine (NE) MKM (mcg/kg/min) dosage calculations using predefined formulations, infusion rates, and patient weight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
